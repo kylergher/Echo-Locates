@@ -9,7 +9,8 @@ public class Dialogue : MonoBehaviour
     public string[] lines;
     public float textSpeed;
     public GameObject activator;
-    public GameObject panel;
+    public GameObject panel; 
+    public MeshRenderer mesh;
    
     private int index;
 
@@ -17,6 +18,7 @@ public class Dialogue : MonoBehaviour
     {
         activator.SetActive(true);
         panel.SetActive(false);
+	mesh.enabled=true;
     }
 
     void OnTriggerEnter(Collider other)
@@ -24,6 +26,7 @@ public class Dialogue : MonoBehaviour
         GetComponent<Collider>().enabled = false;
 
         panel.SetActive(true);
+	mesh.enabled=false;
 
         textComponent.text = string.Empty;
         StartDialogue();
@@ -31,18 +34,21 @@ public class Dialogue : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            if (textComponent.text == lines[index])
-            {
-                NextLine();
-            }
-            else
-            {
-                StopAllCoroutines();
-                textComponent.text = lines[index];
-            }
-        }
+	if(panel.activeInHierarchy == true)
+	{
+        	if (Input.GetMouseButtonDown(0))
+        	{
+            		if (textComponent.text == lines[index])
+            		{
+                		NextLine();
+            		}
+            		else
+            		{
+                		StopAllCoroutines();
+                		textComponent.text = lines[index];
+            		}
+        	}
+	}
     }
 
     void StartDialogue()
