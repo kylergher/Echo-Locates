@@ -845,13 +845,14 @@ GameObject:
   - component: {fileID: 27129775}
   - component: {fileID: 27129774}
   - component: {fileID: 27129773}
+  - component: {fileID: 27129776}
   m_Layer: 5
   m_Name: Echo (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &27129773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -910,6 +911,29 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -184.55003}
   m_SizeDelta: {x: 0, y: 195.09996}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!223 &27129776
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 27129772}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &28485828
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26993,6 +27017,7 @@ GameObject:
   - component: {fileID: 705873158}
   - component: {fileID: 705873157}
   - component: {fileID: 705873156}
+  - component: {fileID: 705873159}
   m_Layer: 5
   m_Name: Echo (3)
   m_TagString: Untagged
@@ -27058,6 +27083,29 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -184.55003}
   m_SizeDelta: {x: 0, y: 195.09996}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!223 &705873159
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 705873155}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 1
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &706722455
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50530,6 +50578,7 @@ GameObject:
   - component: {fileID: 1375682685}
   - component: {fileID: 1375682684}
   - component: {fileID: 1375682683}
+  - component: {fileID: 1375682686}
   m_Layer: 5
   m_Name: Echo (1)
   m_TagString: Untagged
@@ -50595,6 +50644,29 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -184.55003}
   m_SizeDelta: {x: 0, y: 195.09996}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!223 &1375682686
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375682682}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 1
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &1377469359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71775,6 +71847,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1030753882, guid: 6f0b156251103f74d8ff423346634f9c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8238fdfbce89b3a49ab5a91b40744b07,
+        type: 3}
     - target: {fileID: 1474755421, guid: 6f0b156251103f74d8ff423346634f9c, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -71861,6 +71938,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1989476474019772843, guid: 6f0b156251103f74d8ff423346634f9c,
+        type: 3}
+      propertyPath: healthSlider
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1989476474019772844, guid: 6f0b156251103f74d8ff423346634f9c,
         type: 3}
@@ -75194,6 +75276,7 @@ GameObject:
   - component: {fileID: 2068174256}
   - component: {fileID: 2068174255}
   - component: {fileID: 2068174254}
+  - component: {fileID: 2068174257}
   m_Layer: 5
   m_Name: Echo
   m_TagString: Untagged
@@ -75259,6 +75342,29 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -184.55003}
   m_SizeDelta: {x: 0, y: 195.09996}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!223 &2068174257
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068174253}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 1
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!4 &2068376958 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6891424331625105303, guid: b53e7b3bd9805a848915fda4fbe1d4d1,
@@ -78234,6 +78340,7 @@ GameObject:
   - component: {fileID: 2143317236}
   - component: {fileID: 2143317238}
   - component: {fileID: 2143317237}
+  - component: {fileID: 2143317239}
   m_Layer: 5
   m_Name: Echo (2)
   m_TagString: Untagged
@@ -78299,6 +78406,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2143317235}
   m_CullTransparentMesh: 1
+--- !u!223 &2143317239
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143317235}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 1
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &2144338999
 PrefabInstance:
   m_ObjectHideFlags: 0
