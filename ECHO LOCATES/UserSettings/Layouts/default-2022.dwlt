@@ -415,10 +415,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8c780000
-      m_LastClickedID: 30860
-      m_ExpandedIDs: 34f4ffff12fbffff
+      scrollPos: {x: 0, y: 2548}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 7860feff1c8dfeffe2dbffff12fbffff24770000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -838,9 +838,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.352901, y: 4.6597595, z: -3.315596}
+    m_Target: {x: 23.144993, y: 3.721242, z: -36.01157}
     speed: 2
-    m_Value: {x: -1.352901, y: 4.6597595, z: -3.315596}
+    m_Value: {x: 23.144993, y: 3.721242, z: -36.01157}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -886,13 +886,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.2456839, y: -0.53554356, z: 0.17562754, w: -0.7902999}
+    m_Target: {x: -0.089133136, y: 0.9177814, z: -0.23213188, w: -0.31384525}
     speed: 2
-    m_Value: {x: -0.2453668, y: -0.5348523, z: 0.17540087, w: -0.7892799}
+    m_Value: {x: -0.0890152, y: 0.9165671, z: -0.23182474, w: -0.31342998}
   m_Size:
-    m_Target: 5.146333
+    m_Target: 4.7329717
     speed: 2
-    m_Value: 5.146333
+    m_Value: 4.7329717
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1036,7 +1036,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/_myAssets/scripts
+    - Assets/_myAssets/ECHO_LOCATES/Models
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1044,15 +1044,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 53
   m_LastFolders:
-  - Assets/_myAssets/scripts
+  - Assets/_myAssets/ECHO_LOCATES/Models
   m_LastFoldersGridSize: 53
   m_LastProjectPath: C:\Users\Kyler\Documents\GitHub\Echo-Locates\ECHO LOCATES
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: f4880000
-    m_LastClickedID: 35060
+    m_SelectedIDs: f6880000
+    m_LastClickedID: 35062
     m_ExpandedIDs: 00000000e6880000e8880000ea880000ec880000ee880000f0880000f2880000f4880000f6880000f8880000fa880000fc880000fe88000000890000028900000489000006890000088900000a89000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1108,7 +1108,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000088ce010000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
