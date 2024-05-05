@@ -1,32 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class StartScreen : MonoBehaviour
-
+public class StartScene: MonoBehaviour
 {
-public GameObject window;
-public void whenButtonClicked()
-{
-window.SetActive(false);
-}
+    public string gamePlay;
 
-
-
-
-
-
-
-
-    // Start is called before the first frame update
-    void Start()
+    public void LoadLevel()
     {
-        
+        SceneManager.LoadScene(gamePlay);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ExitGame()
     {
-        
+        Application.Quit();
     }
 }
