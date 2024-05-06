@@ -1,3 +1,91 @@
 
 /ECHO LOCATES/Library
 /ECHO LOCATES/Logs
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Couch/Couch_DefaultMaterial_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Couch/Couch_DefaultMaterial_AO.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Couch/Couch_DefaultMaterial_AO.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Couch/Couch_DefaultMaterial_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Couch/Couch_DefaultMaterial_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Double Drawe.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Double Drawe/DoubleDrawer_DefaultMaterial_Albedo.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Double Drawe/DoubleDrawer_DefaultMaterial_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Double Drawe/DoubleDrawer_DefaultMaterial_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Double Drawe/DoubleDrawer_DefaultMaterial_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_Albedo.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_AO.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_AO.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Drawer Single/SingleDrawer_DefaultMaterial_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_Albedo.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_AO.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_AO.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Octognal Table/OctogonNightstand_DefaultMaterial_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_Albedo.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_AO.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_AO.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Square Table/SquareNightstand_DefaultMaterial_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_Albedo.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_Albedo.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_AO.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_AO.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_Metallic.png
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Materials/TEXTURES/Wall Light/wall_light_front_Material _27_Metallic.png.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Models/BUILD/Beam.fbx
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Models/BUILD/Beam.fbx.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Models/PROPS/Book1.max.meta
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall 1.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall_Double_Door.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall_Half 1.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall_Single_Door.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall_Single_Left.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/Wall_Single_Righr.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/WallLight_Back.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/BUILD/WallLight_Front.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/BedEnd.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/BookCase.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/Chair.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/CoatRack (1).prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/DoubleBed.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/DoubleDrawer.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/OctogonNightstand (1).prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/SingleBed.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/SingleDrawer.prefab
+ECHO LOCATES/Assets/_myAssets/ECHO_LOCATES/Prefabs/FURNITURE/SquareNightstand.prefab
+ECHO LOCATES/Assets/_myAssets/Scenes/ECHO_LOCATES.unity
+ECHO LOCATES/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+ECHO LOCATES/Build/ECHO LOCATES_Data/boot.config
+ECHO LOCATES/Build/ECHO LOCATES_Data/globalgamemanagers
+ECHO LOCATES/Build/ECHO LOCATES_Data/level0
+ECHO LOCATES/Build/ECHO LOCATES_Data/level1
+ECHO LOCATES/Build/ECHO LOCATES_Data/sharedassets0.assets
+ECHO LOCATES/Build/ECHO LOCATES_Data/sharedassets1.assets
+ECHO LOCATES/Build/ECHO LOCATES_Data/sharedassets1.assets.resS
+ECHO LOCATES/Temp/3dsMax.log
+ECHO LOCATES/Temp/__Backupscenes/0.backup
+ECHO LOCATES/Temp/Book1.fbx
+ECHO LOCATES/Temp/compute-shader-stripping.json
+ECHO LOCATES/Temp/FBXMaxExport.ms
+ECHO LOCATES/Temp/FSTimeGet-048daa7d536bef844a60a27656bd8bde
+ECHO LOCATES/Temp/FSTimeGet-137db97c7fb017c449c21624aff01a2a
+ECHO LOCATES/Temp/FSTimeGet-7927ba40bfd7e904ba35a914c0ff3882
+ECHO LOCATES/Temp/FSTimeGet-895d02f0f0bfe5542b9e00b962d187c0
+ECHO LOCATES/Temp/FSTimeGet-8aae77baa01f20048bf2fe2b3bdd58a8
+ECHO LOCATES/Temp/FSTimeGet-b67bdfd3868510542b6b280ca847a737
+ECHO LOCATES/Temp/FSTimeGet-ffc3d786f4e5898489877dd298982cb2
+ECHO LOCATES/Temp/PlayerBuildAnalyticsEvents.json
+ECHO LOCATES/Temp/shader-stripping.json
+ECHO LOCATES/Temp/StagingArea/WindowsPlayer.exe
+ECHO LOCATES/Temp/tempFile.res
+ECHO LOCATES/Temp/tempFile.resG
+ECHO LOCATES/Temp/UnityLockfile
+ECHO LOCATES/Temp/workerlic
+ECHO LOCATES/UserSettings/Layouts/default-2022.dwlt
